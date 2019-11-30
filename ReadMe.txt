@@ -1,0 +1,1 @@
+Visual Studio 2008 C# project for converting Zawgyi to Unicode Myanmar text
